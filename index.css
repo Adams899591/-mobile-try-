@@ -1,6 +1,6 @@
 
 
-@media(max-width: 600px){
+/*@media(max-width: 600px){
     body{
         background-color:green;
         width: 50%;
@@ -11,6 +11,7 @@
    
     
 }
+
 
 
 
@@ -30,3 +31,8 @@ body{
   
  
 }
+
+input{
+    max-width: 9000%;
+}*/
+
